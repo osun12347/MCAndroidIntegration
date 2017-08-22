@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "357192908099",
+    "firebase_url": "https://myapp-69b8a.firebaseio.com",
+    "project_id": "myapp-69b8a",
+    "storage_bucket": "myapp-69b8a.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:357192908099:android:8793d558615cf83a",
+        "android_client_info": {
+          "package_name": "com.example.v_wngwei.mcandroidintegration"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "357192908099-9tno87d6pv4f81v9i69vu16qu6v4rpn1.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAwkaYGwd4yM1K1bszALSBd8xkywD8YCds"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
