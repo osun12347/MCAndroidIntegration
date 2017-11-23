@@ -1,3 +1,11 @@
 <resources>
     <string name="app_name">MCAndroidIntegration</string>
+    <string name="crash_confirmation_dialog_title">Crash Title</string>
+    <string name="crash_confirmation_dialog_message">Crash message</string>
+    <string name="crash_confirmation_dialog_send_button">Send</string>
+    <string name="crash_confirmation_dialog_not_send_button">Not send</string>
+    <string name="crash_confirmation_dialog_always_send_button">Always send</string>
+    <string name="crash_before_sending">Before sending</string>
+    <string name="crash_sent_failed">Crash sent failed</string>
+    <string name="crash_sent_succeeded">Sent succeed</string>
 </resources>
